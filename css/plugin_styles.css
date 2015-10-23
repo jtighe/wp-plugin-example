@@ -1,0 +1,3 @@
+.wppe_example { color: red; font-weight: 700; border: 1px solid #ccc; padding: 5px; }
+.wppe_example.blue { color: blue; border: 1px solid #ccc; }
+.wppe_example.red { color: red; border: 1px solid red; }
