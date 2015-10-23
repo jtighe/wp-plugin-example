@@ -17,7 +17,7 @@ The slides for the presentation can be found:
 ## Acknowledgements 
 This plugin in was originally developed by Pippin Williamson for his
 
-[My First WordPress Plugin Tutorial](http://pippinsplugins.com/how-to-begin-wrtiting-your-first-wordpress-plugin/ "My First WordPress Plugin Tutorial")
+[My First WordPress Plugin Tutorial](https://pippinsplugins.com/how-to-begin-writing-your-first-wordpress-plugin/ "My First WordPress Plugin Tutorial")
 
 I changed the plugin name and instead of adding a twitter feed it just adds some text.
 
